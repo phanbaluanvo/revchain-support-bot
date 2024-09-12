@@ -2,4 +2,4 @@
 base="light"
 
 [client]
-toolbarMode = "minimal"
+toolbarMode = "auto"
